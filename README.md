@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Upnit-b/OpenAI-Whisper-Audio-Transcription-Translation
+   git clone https://github.com/Upnit-b/AI-Whisper-Audio-Transcription
    cd Project-2
    ```
 
